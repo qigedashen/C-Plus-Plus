@@ -1,24 +1,9 @@
 var searchData=
 [
-  ['chrono_0',['chrono',['http://en.cppreference.com/w/d4/d0c/namespacestd_1_1chrono.html',0,'std']]],
-  ['experimental_1',['experimental',['http://en.cppreference.com/w/de/d97/namespacestd_1_1experimental.html',0,'std']]],
-  ['regex_5fconstants_2',['regex_constants',['http://en.cppreference.com/w/db/da4/namespacestd_1_1regex__constants.html',0,'std']]],
-  ['rel_5fops_3',['rel_ops',['http://en.cppreference.com/w/da/d42/namespacestd_1_1rel__ops.html',0,'std']]],
-  ['saddleback_4',['saddleback',['../d0/dda/namespacesaddleback.html',1,'']]],
-  ['search_5',['search',['../d9/dca/namespacesearch.html',1,'']]],
-  ['selection_5fsort_5frecursive_6',['selection_sort_recursive',['../df/d4a/namespaceselection__sort__recursive.html',1,'']]],
-  ['sha_7',['SHA',['../de/dd3/namespace_s_h_a.html',1,'']]],
-  ['shortest_5fcommon_5fsupersequence_8',['shortest_common_supersequence',['../d3/deb/namespaceshortest__common__supersequence.html',1,'']]],
-  ['sorting_9',['sorting',['../d5/d91/namespacesorting.html',1,'']]],
-  ['sparse_5ftable_10',['sparse_table',['../d9/d55/namespacesparse__table.html',1,'']]],
-  ['spirograph_11',['spirograph',['../da/dd3/namespacespirograph.html',1,'']]],
-  ['statistics_12',['statistics',['../d2/dcf/namespacestatistics.html',1,'']]],
-  ['std_13',['std',['../d8/dcc/namespacestd.html',1,'']]],
-  ['strand_14',['strand',['../d8/d1d/namespacestrand.html',1,'']]],
-  ['string_5fsearch_15',['string_search',['../d9/d03/namespacestring__search.html',1,'']]],
-  ['strings_16',['strings',['../df/dcb/namespacestrings.html',1,'']]],
-  ['subarray_5fsum_17',['subarray_sum',['../df/d74/namespacesubarray__sum.html',1,'']]],
-  ['sublist_5fsearch_18',['sublist_search',['../d9/def/namespacesublist__search.html',1,'']]],
-  ['subsets_19',['Subsets',['../de/d95/namespace_subsets.html',1,'']]],
-  ['this_5fthread_20',['this_thread',['http://en.cppreference.com/w/d7/dbf/namespacestd_1_1this__thread.html',0,'std']]]
+  ['radix_5fsort_0',['radix_sort',['../da/dda/namespaceradix__sort.html',1,'']]],
+  ['random_5fpivot_5fquick_5fsort_1',['random_pivot_quick_sort',['../de/d6b/namespacerandom__pivot__quick__sort.html',1,'']]],
+  ['range_5fqueries_2',['range_queries',['../dd/d69/namespacerange__queries.html',1,'']]],
+  ['rat_5fmaze_3',['rat_maze',['../d9/d60/namespacerat__maze.html',1,'']]],
+  ['reverse_5fbinary_5ftree_4',['reverse_binary_tree',['../dc/dc5/namespacereverse__binary__tree.html',1,'']]],
+  ['runge_5fkutta_5',['runge_kutta',['../d2/de7/namespacerunge__kutta.html',1,'']]]
 ];
